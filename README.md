@@ -9,8 +9,8 @@ the products. To address these issues, this project seeks to develop an E-commer
 ## Dataset
 
 The dataset used for training and evaluation can be found at the following link: 
-[Fashion Product Images (Small)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
-[Fashion Product Images (Large)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset/data)
+- [Fashion Product Images (Small)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
+- [Fashion Product Images (Large)](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset/data)
 
 
 ## Training the Model
