@@ -50,7 +50,7 @@ def display_similar_products(indices):
 feature_list = np.array(pickle.load(open("embeddings.pkl", "rb")))
 filenames = pickle.load(open("filenames.pkl", "rb"))
 
-st.title("Fashion Recommender System")
+st.title("Visual-Based Fashion Recommendation System")
 
 # file upload -> save
 uploaded_file = st.file_uploader("Choose an image")

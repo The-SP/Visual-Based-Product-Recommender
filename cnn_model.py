@@ -23,7 +23,7 @@ def get_model():
         ]
     )
 
-    # print(model.summary())
+    print(model.summary())
     return model
 
 

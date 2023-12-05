@@ -27,4 +27,8 @@ The Streamlit app provides an interface to interact with the recommendation syst
 streamlit run main.py
 ```
    
+## Screenshots
 
+![Screenshot 1](screenshots/shoe.png)
+
+![Screenshot 2](screenshots/tshirt.png)
